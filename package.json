@@ -1,21 +1,26 @@
 {
-  "name": "sails-util",
-  "version": "0.11.0",
-  "description": "Shared utilities between sails, waterline, etc.",
+  "name": "blue-prod-util",
+  "version": "0.0.1",
+  "description": "Shared utilities between blue-prod, waterline, etc.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
+  "homepage": "https://github.com/EMSA-TECHNOLOGY/blue-prod-util",
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails-util.git"
+    "url": "git://github.com/EMSA-TECHNOLOGY/blue-prod-util.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EMSA-TECHNOLOGY/blue-prod-util/issues"
   },
   "keywords": [
     "sails",
     "waterline",
-    "util"
+    "util",
+    "blue-prod"
   ],
-  "author": "Mike McNeil",
+  "author": "Vu Do",
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {

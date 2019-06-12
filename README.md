@@ -1,15 +1,21 @@
-sails-util
+blue-prod-util
 ===========
 
-Shared utilities between sails, waterline, etc.
+Shared utilities between blue-prod, waterline, etc.
+
+## Help
+
+If you have further questions or are having trouble, click [here](https://github.com/EMSA-TECHNOLOGY/blue-prod-util/issues).
 
 
+## Bugs &nbsp; [![NPM version](https://badge.fury.io/js/blue-prod-util.svg)](http://npmjs.com/package/blue-prod-util)
+
+To report a bug, [click here](https://github.com/EMSA-TECHNOLOGY/blue-prod-util/issues).
 
 
-## Docs
+## Contributing
 
-See [`docs`](./docs).
-
+[![NPM](https://nodei.co/npm/blue-prod-util.png?downloads=true)](http://npmjs.com/package/blue-prod-util)
 
 ## Coming changes:
 + async
@@ -33,3 +39,7 @@ See [`docs`](./docs).
 >
 > ##### Things to add:
 > + I'd like to bundle a few of the most commonly used methods from momentjs.
+
+## License
+
+The [blue-prod framework](https://github.com/EMSA-TECHNOLOGY/blue-prod) is free and open-source under the [MIT License](https://github.com/EMSA-TECHNOLOGY/blue-prod-hook-sockets/blob/master/LICENSE.md).
